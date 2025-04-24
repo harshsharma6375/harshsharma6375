@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshsharma6375
-- 👀 I’m interested in visualizing new things and a type of wanderlust kind of a person .
+- 👀 I’m interested in visualizing new things and a wanderlust kind of a person .
 - 🌱 I’m currently learning Data Science Engineering .
 - 💞️ I’m looking to collaborate on startup likes that have a oppurtunity for me .
 - 📫 How to reach me with my bio contact are given there itself.
